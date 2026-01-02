@@ -43,12 +43,12 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Licht1906&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Licht1906&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Licht1906&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Licht1906&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licht1906&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licht1906&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
 ## 📫 CONTACT
@@ -56,8 +56,3 @@
 - 📧 Email: **nhvuliz196@gmail.com**
 - 🌐 Facebook: [facebook.com/licht.196](https://www.facebook.com/licht.196/)
 
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/Licht1906/Licht1906/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
