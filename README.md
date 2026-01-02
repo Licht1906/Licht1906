@@ -16,3 +16,55 @@
 🏫 University  : Hanoi University of Science and Technology
 ⚽ Hobby       : Soccer
 🌍 Location    : Vietnam
+🔥 **LeetCode**: [Lichtnguyen](https://leetcode.com/u/Lichtnguyen/)
+⚔️ **Codeforces**: [VuNguyen196](https://codeforces.com/profile/VuNguyen196)
+
+## 🎓 EDUCATION
+
+```txt
+🏆 Le Quy Don – Khanh Hoa High School for the Gifted
+   Major     : Information Technology
+
+🎓 Hanoi University of Science and Technology (HUST)
+   Major     : Computer Science (IT1)
+
+
+---
+
+## 🛠️ TECH STACK (NGẦU – GỌN)
+
+```md
+## 🛠️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,linux,vscode&perline=6" />
+</p>
+
+## ⚙️ WHAT I’M FOCUSING ON
+
+- 🧩 Data Structures & Algorithms  
+- 💻 Software & System Programming  
+- 🔎 Problem Solving  
+- 🚀 Continuous Learning
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Licht1906&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Licht1906&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Licht1906&layout=compact&theme=radical&hide_border=true" width="40%"/>
+</p>
+
+## 📫 CONTACT
+
+- 📧 Email: **nhvuliz196@gmail.com**
+- 🌐 Facebook: [facebook.com/licht.196](https://www.facebook.com/licht.196/)
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/Licht1906/Licht1906/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
