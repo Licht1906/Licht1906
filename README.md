@@ -10,7 +10,6 @@
 ---
 
 ## ⚡ ABOUT ME
-```txt
 👋 Name        : Licht1906
 🎓 Major       : Computer Science (IT1)
 🏫 University  : Hanoi University of Science and Technology
@@ -20,8 +19,6 @@
 ⚔️ **Codeforces**: [VuNguyen196](https://codeforces.com/profile/VuNguyen196)
 
 ## 🎓 EDUCATION
-
-```txt
 🏆 Le Quy Don – Khanh Hoa High School for the Gifted
    Major     : Information Technology
 
@@ -29,16 +26,12 @@
    Major     : Computer Science (IT1)
 
 
----
-
-## 🛠️ TECH STACK (NGẦU – GỌN)
-
-```md
 ## 🛠️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,linux,vscode&perline=6" />
 </p>
+
 
 ## ⚙️ WHAT I’M FOCUSING ON
 
